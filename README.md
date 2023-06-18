@@ -5,6 +5,8 @@ Python program to perform an analysis of data extracted from an Excel spreadshee
 
 Link to notebook: [Kaggle](https://www.kaggle.com/malucor/aed-estante-de-livros)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 pt_br:
 Programa em Python para fazer uma análise de dados extraídos de uma planilha Excel com informações relacionadas aos livros presentes em uma estante.
 
